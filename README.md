@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales-Dashboard
 
+## Coffe Shop Dashboard Link: https://1drv.ms/x/c/adcf90e666fa3fa3/EfkZhS4VazJEjgTjZS1DoxQBjQqUOFns3ZqARy77V8M6jQ?e=i4Cocf
+
 ## Overview
 
 This repository contains an Excel-based dashboard designed to analyze the performance of a coffee shop. The dashboard offers insights into sales, footfall, popular products, and customer behavior, empowering decision-making for improving business strategies.
