@@ -44,4 +44,4 @@ This repository contains an Excel-based dashboard designed to analyze the perfor
 
 ## Conclusion
 
-This dashboard provides comprehensive insights into sales trends, helping business owners optimize their product offerings, pricing strategies, and operational hours. The data-driven insights are valuable for making informed business decisions.
+This dashboard provides comprehensive insights into sales trends, helping business owners optimize their product offerings, pricing strategies, and operational hours. This detailed breakdown shows key areas where the coffee shop can optimize operations and marketing strategies based on peak hours, top-selling products, and location-based performance.
