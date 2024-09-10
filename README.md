@@ -28,13 +28,13 @@ This repository contains an Excel-based dashboard designed to analyze the perfor
 
 - Category Distribution: Sales categorized into:
 
-- Coffee (39%)
-
-- Tea (28%)
-
-- Bakery (12%)
-
-- Other categories: Drinking Chocolate, Coffee Beans, etc.
+  - Coffee (39%)
+  
+  - Tea (28%)
+  
+  - Bakery (12%)
+  
+  - Other categories: Drinking Chocolate, Coffee Beans, etc.
 
 - Order Quantity Distribution: Distribution of product quantities sold (Large, Regular, Small).
 
