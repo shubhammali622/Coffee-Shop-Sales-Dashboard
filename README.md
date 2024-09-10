@@ -2,20 +2,46 @@
 
 ## Overview
 
-This repository contains an Excel-based interactive dashboard designed to analyze sales performance for a coffee shop. The dashboard provides insights into various metrics such as total sales, sales by product category, daily sales trends, and customer demographics, helping to make data-driven business decisions.
+This repository contains an Excel-based dashboard designed to analyze the performance of a coffee shop. The dashboard offers insights into sales, footfall, popular products, and customer behavior, empowering decision-making for improving business strategies.
 
-## Features
+## Key Features
 
-- Sales Overview: A high-level view of total sales, profits, and revenue.
+- Sales & Footfall Overview:
+  
+  - Total Sales: $698,812.33
+    
+  - Total Footfall: 149,116
+    
+  - Average Bill per Person: $4.69
+    
+  - Average Orders per Person: 1.44
 
-- Product Breakdown: Visual representation of sales by product categories (e.g., beverages, snacks).
+- Orders Based on Hours: Visualizes order quantities throughout the day to identify peak business hours.
 
-- Daily Sales Trends: Graphs to track sales over time and identify peak periods.
+- Footfall & Sales by Location: Compares sales and footfall across three main store locations—Astoria, Hell's Kitchen, and Lower Manhattan.
 
-- Customer Demographics: Data analysis on customer profiles to understand target audience.
+- Top Products: A breakdown of top 5 products sold, such as:
+  
+  - Barista Espresso: $91,406.20
+    
+  - Brewed Chai Tea: $77,081.95
 
-- Visual Insights: Easy-to-interpret charts, graphs, and pivot tables for quick insights.
+- Category Distribution: Sales categorized into:
+
+- Coffee (39%)
+
+- Tea (28%)
+
+- Bakery (12%)
+
+- Other categories: Drinking Chocolate, Coffee Beans, etc.
+
+- Order Quantity Distribution: Distribution of product quantities sold (Large, Regular, Small).
+
+## File Contents
+
+- Coffee_Shop_Sales_Dashboard.xlsx: The main Excel file containing all the data and visual insights.
 
 ## Conclusion
 
-This dashboard provides a comprehensive view of the sales data, offering meaningful insights into the business performance of a coffee shop. It can be easily customized for other similar businesses.
+This dashboard provides comprehensive insights into sales trends, helping business owners optimize their product offerings, pricing strategies, and operational hours. The data-driven insights are valuable for making informed business decisions.
